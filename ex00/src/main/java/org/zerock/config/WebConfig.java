@@ -2,7 +2,7 @@ package org.zerock.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-public class WebConfig extends AbstractAnnotationConfigDispatcherServletInitializer {
+/*public class WebConfig extends AbstractAnnotationConfigDispatcherServletInitializer {
 
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
@@ -22,4 +22,11 @@ public class WebConfig extends AbstractAnnotationConfigDispatcherServletInitiali
 		return null;
 	}
 
+}*/
+
+public class WebConfig {
+
+
+
 }
+
